@@ -1,0 +1,32 @@
+[
+  {
+    "organizacion": "org1",
+    "usuario": "jperez",
+    "rol": "admin"
+  },
+  {
+    "organizacion": "org1",
+    "usuario": "jperez",
+    "rol": "superadmin"
+  },
+  {
+    "organizacion": "org1",
+    "usuario": "asosa",
+    "rol": "writer"
+  },
+  {
+    "organizacion": "org2",
+    "usuario": "jperez",
+    "rol": "admin"
+  },
+  {
+    "organizacion": "org2",
+    "usuario": "rrodriguez",
+    "rol": "writer"
+  },
+  {
+    "organizacion": "org2",
+    "usuario": "rrodriguez",
+    "rol": "editor"
+  }
+]
